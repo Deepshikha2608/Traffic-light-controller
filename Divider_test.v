@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   23:40:38 06/12/2019
+// Create Date:   23:40:38 26/12/2024
 // Design Name:   Divider
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/Divider_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/Divider_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
