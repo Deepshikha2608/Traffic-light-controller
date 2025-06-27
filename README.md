@@ -1,5 +1,5 @@
 # TrafficLightController
-Design a sequential circuit (FSM) and implement using Verilog
+Verilog-based traffic light controller for automated signaling with pedestrian and emergency override
 ![1](readme_img/readme-04.jpg)
 ![2](readme_img/readme-05.jpg)
 ![3](readme_img/readme-06.jpg)
