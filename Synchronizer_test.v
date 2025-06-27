@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   17:53:54 06/13/2019
+// Create Date:   17:53:54 26/12/2024
 // Design Name:   Synchronizer
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/Synchronizer_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/Synchronizer_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
