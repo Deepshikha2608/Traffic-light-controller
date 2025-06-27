@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   19:12:16 06/12/2019
+// Create Date:   19:12:16 26/12/2024
 // Design Name:   Timer
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/Timer_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/Timer_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
