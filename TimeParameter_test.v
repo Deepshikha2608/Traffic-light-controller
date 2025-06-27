@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   15:02:27 06/13/2019
+// Create Date:   15:02:27 26/12/2024
 // Design Name:   TimeParameter
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/TimeParameter_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/TimeParameter_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
