@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   17:12:45 06/13/2019
+// Create Date:   17:12:45 26/12/2024
 // Design Name:   WalkRegister
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/WalkRegister_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/WalkRegister_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
