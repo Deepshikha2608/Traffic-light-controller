@@ -4,9 +4,9 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   18:26:50 06/25/2019
+// Create Date:   18:26:50 26/12/2024
 // Design Name:   TrafficControllerMain
-// Module Name:   C:/Users/Aruna/Documents/ISE/TrafficLightController/TrafficControllerMain_test.v
+// Module Name:   C:/Users/deeps/Documents/ISE/TrafficLightController/TrafficControllerMain_test.v
 // Project Name:  TrafficLightController
 // Target Device:  
 // Tool versions:  
